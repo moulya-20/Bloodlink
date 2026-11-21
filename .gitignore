@@ -1,0 +1,5 @@
+*.db
+.gradio/
+__pycache__/
+.venv/
+.env
